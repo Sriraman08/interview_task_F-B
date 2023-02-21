@@ -1,0 +1,31 @@
+.bttns{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+}
+.bttns .lin_tag{
+    border: 1px solid beige;
+    width: 110px;
+    height: 30px;
+    text-decoration: none;
+    text-align: center;
+    border-radius: 10px;
+    background: #1616e3;
+    color: white;
+}
+.table {
+    border-collapse: separate;
+    border-spacing: 0 15px;
+  }
+  
+.th {
+    background-color: #4287f5;
+    color: white;
+  }
+  
+.td {
+    width: 150px;
+    text-align: center;
+    border: 1px solid black;
+    padding: 5px;
+  }
